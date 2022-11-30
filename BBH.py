@@ -1299,7 +1299,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/ferdousvau1/file1/blob/main/approve.txt").text
+	r1=requests.get("https://github.com/RAIHANvau1/file1/blob/main/approve.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1312,13 +1312,13 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m FERDOUS Tool Paid You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m RAIHAN Tool Paid You Need Get Approved First\033[1;37m\n")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+ak+raihan+key1)
+		print (" Your Key : "+ak+ahsan+key1)
 		print ("")
 		name = input(" Type Your Name : ")
 		print ("")
